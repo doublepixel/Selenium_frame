@@ -1,0 +1,18 @@
+# Python:
+*.py[cod]
+*.log
+.idea
+.DS_Store
+
+
+# report/image/
+#report/
+
+__pycache__/
+package/__pycache__/
+test_case/__pycache__/
+test_case/models/__pycache__/
+test_case/page_obj/__pycache__/
+test_case/page_obj/tools/__pycache__/
+.idea/workapace.xml
+test_case
